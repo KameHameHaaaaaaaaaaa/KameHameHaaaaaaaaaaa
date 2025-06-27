@@ -2,7 +2,7 @@
   <samp>
     <a href="https://www.linkedin.com/in/now-tiger/">Linkedln</a>
     <a> 🚀 </a>
-    <a href="https://www.github.com/Now-Tiger/">GitHub</a>
+    <a href="https://www.github.com/Now-Tiger">GitHub</a>
   </samp> 
 </p>
 
